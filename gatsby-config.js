@@ -7,7 +7,7 @@ module.exports = {
       'Kevin Phan is a Full Stack Developer who specializes in building and designing exceptional digital experiences.',
     siteUrl: 'https://www.kevinphan.ca', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@kenPHAN',
+    twitterUsername: '@kevinphan55',
   },
   plugins: [
     {
