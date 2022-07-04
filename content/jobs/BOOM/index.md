@@ -1,12 +1,13 @@
 ---
-date: '2014-04-01'
-title: 'Brand Ambassador'
-company: 'BOOM!'
-location: 'Victoria, BC'
-range: 'APR 2014 - JAN 2017'
+date: '2021-09-01'
+title: 'Software Developer'
+company: 'InsureCert Systems'
+location: 'Vancouver, BC'
+range: 'SEP 2021 - PRESENT'
 url: ''
 ---
 
-- Engaged and built rapport with customers to sample different products.
-- Generated sales opportunity by building customer preference.
-- Report inventory levels and customer feedback regarding the brand to sales managers.
+- Fullstack development - Python, Django, Angular, Svelte, Handlebars, jQuery.
+- Custom API Integrations using REST and SOAP services.
+- Bug fixes for frontend, database management using PostgreSQL w/ Django schemas.
+- Server management using SaltStack.

@@ -1,9 +1,9 @@
 ---
 date: '2021-07-15'
-title: 'Web Developer'
+title: 'Web Developer (Internship)'
 company: 'Moving2Canada'
 location: 'Vancouver, BC'
-range: 'JUL 2021 - PRESENT'
+range: 'JUL 2021 - SEP 2021'
 url: 'https://moving2canada.com/'
 ---
 
