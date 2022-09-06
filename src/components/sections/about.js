@@ -124,7 +124,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'React', 'Node.js', 'Ruby', 'Express', 'JQuery'];
+  const skills = ['Python', 'Svelte', 'Angular', 'JavaScript (ES6+)', 'React', 'Node.js', 'Express', 'JQuery'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -145,7 +145,7 @@ const About = () => {
               <a href="https://geekymarketing.com/">a digital marketing agency</a>,{' '}
               <a href="https://www.bredofficial.ca/"> a start-up company</a>, and a
               <a href="https://www.jimpattisonlease.com/"> corporate leader in fleet solutions</a>.
-              While my past experience focused on UI/UX designs, lately I have been working with:
+              As a Fullstack Software Engineer, currently my primary tech stack includes:
             </p>
           </div>
 
