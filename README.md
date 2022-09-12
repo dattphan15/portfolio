@@ -4,6 +4,36 @@
 <h1 align="center">
   My Personal Website
 </h1>
+
+# 🛠 Installation & Set Up
+
+1. Install the Gatsby CLI  
+   `npm install -g gatsby-cli`
+
+2. Install and use the correct version of Node using NVM  
+   `nvm install`
+
+3. Install Yarn  
+   `npm install -g yarn`
+
+4. Install dependencies  
+   `yarn` or `npm install`
+
+5. Start the development server  
+   `npm start`
+
+---
+
+# 🚀 Building and Running for Production
+
+1. Generate a full static production build  
+   `npm run build`
+
+2. Preview the site as it will appear once deployed  
+   `npm run serve`
+
+---
+
 <p align="center">
   My iteration of  <a href="https://github.com/bchiang7/v4" >Brittany Chiang's V4 Personal Website</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.heroku.com/" target="_blank">Heroku</a>
 </p>
