@@ -13,13 +13,10 @@
 2. Install and use the correct version of Node using NVM  
    `nvm install`
 
-3. Install Yarn  
-   `npm install -g yarn`
+3. Install dependencies  
+   `npm install`
 
-4. Install dependencies  
-   `yarn` or `npm install`
-
-5. Start the development server  
+4. Start the development server  
    `npm start`
 
 ---
